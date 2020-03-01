@@ -1,2 +1,5 @@
-# Dual-a-thon-
-This the code for our team project submission for the Dual-a-thon hackathon.We are basically developing a healthcare system for elderly people usiong IoT and Machine Learning.
+# HealthCare
+
+This is a login/register page created ussing Android Studio.
+Authentication of the users is done using firebase.
+This was primarily designed as a part of the hack that my team was going to build for Medi-Hackathon.
