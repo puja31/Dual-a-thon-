@@ -1,5 +1,6 @@
-# HealthCare
-
-This is a login/register page created ussing Android Studio.
-Authentication of the users is done using firebase.
-This was primarily designed as a part of the hack that my team was going to build for Medi-Hackathon.
+This project is done as a part of Dual-a-thon.
+We are basically building a healthcare system for elderly.
+We use Iot sensors like pulse sensor,ecg module,temperature and humidity sensor and accelerometer to get the real time health status of an individual.
+The values retrieved from the sensors will be sent to Android app using Firebase.
+We also use ML random regressor model to predict the future diseases.
+ 
